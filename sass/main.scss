@@ -1,0 +1,12 @@
+@import 'modules/query';
+@import 'modules/reset';
+@import 'modules/landing';
+@import 'modules/vars';
+
+
+// for some reason it doesnt work inside the queries file
+@media screen and (min-width: 800px) {
+    main {
+        margin: 0 auto;
+    }
+}
