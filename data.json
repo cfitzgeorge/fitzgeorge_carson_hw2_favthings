@@ -1,0 +1,30 @@
+{
+    "Writing": {
+        "hobbyName": "The name of the hobby:",
+        "hobby": "Writing",
+        "hobbyInfo": "What does it do for me?",
+        "hobbyDesc":"I've always wanted to write sci-fi novels ever since I was in 4th grade. The ability to create my own universes and characters acts like an escape of sorts.",
+        "hobbyLike": "Do I like it?",
+        "hobbyGrade": "A solid 8/10. I often get distracted or lost in thought when I write, however.",
+        "hobbyImg": "writing.jpg"
+    },
+    "Walking": {
+        "hobbyName": "The name of the hobby:",
+        "hobby": "Walking",
+        "hobbyInfo": "What does it do for me?",
+        "hobbyDesc":"I enjoy going for walks because it helps me relax, clear my head, and get the blood flowing in my legs after a long day of doing design and development work.",
+        "hobbyLike": "Do I like it?",
+        "hobbyGrade": "10/10. Nothing is better than a nice long walk around campus accompanied with a water bottle and beats in my ears.",
+        "hobbyImg": "walkman.jpg"
+
+    },
+    "Playing Video Games": {
+        "hobbyName": "Name of the thing:",
+        "hobby": "Video Games",
+        "hobbyInfo":"Sure, it's an addiction of mine. But what's not to love? It gets the adrenaline pumping, and winning matches gets me pumped.",
+        "hobbyDesc": "What does it do for me?",
+        "hobbyLike": "10/10. My favorite games to play are Valorant, Overwatch 2, and Gundam Evolution.",
+        "hobbyGrade": "Is it nice?",
+        "hobbyImg": "c9tenz.jpg"
+    }
+}
